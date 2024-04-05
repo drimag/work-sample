@@ -1,0 +1,6 @@
+Link to the repositories of some miscelaneous projects
+
+https://github.com/sarahjums/MP2-lbyarch - interfacing assembly with C
+
+https://github.com/francizesperanza/CSNETWK_NAP - Socket programming with python
+
