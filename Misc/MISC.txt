@@ -1,6 +1,11 @@
 Link to the repositories of some miscelaneous projects
 
 https://github.com/sarahjums/MP2-lbyarch - interfacing assembly with C
-
 https://github.com/francizesperanza/CSNETWK_NAP - Socket programming with python
+
+WebApps or Experience with HTML/CSS/Javascript:
+https://github.com/rustynade1/movie-recommender/tree/new-algo-old-template - empathic movie recommender system using python/django backend
+https://github.com/rustynade1/movie-recommender/tree/main/movie_recommender_django/frontend - frontend for the project above using react/mui (was not used for the final version of the project)
+https://github.com/drimag/CCAPDEV-WEBAPP - generic forums website
+https://github.com/nicpjocson/two-way-accepters - program for simulating a two-way acceptor
 
